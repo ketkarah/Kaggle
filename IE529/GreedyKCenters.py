@@ -73,7 +73,7 @@ def assign(pv,index):
         i=i+1
     return club
 start=timeit.default_timer()
-with open("C:/Users/Akshay/Desktop/Sem 3/Becky/IE529CA2/Clustering.csv")as csvfile:
+with open("")as csvfile:
   b=csv.reader(csvfile)
   pcom=[]
   dcom=[]
