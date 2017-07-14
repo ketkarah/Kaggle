@@ -168,3 +168,12 @@ sortedList2 = sorted(MPat.items(), key=lambda m: (-m[1], m[0]))
 for m in sortedList2:
     ma=m[0]    
     print m[1],"["+' '.join(ma).replace('"','')+"]"
+
+"""Std input e.g
+2            ### Min support
+B C D
+B C D E F
+A C D
+A C D E 
+
+"""
