@@ -69,7 +69,7 @@ print(max(Info, key=Info.get))
 print(max(GRat, key=GRat.get))
 
 ###Input form:
-###
+
 15
 age,income,student,creditrating,buyscomputer?
 l30,high,no,fair,no
@@ -86,4 +86,4 @@ l30,medium,yes,excellent,yes
 31to40,medium,no,excellent,yes
 31to40,high,yes,fair,yes
 g40,medium,no,excellent,no
-###
+
