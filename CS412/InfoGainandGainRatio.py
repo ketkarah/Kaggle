@@ -1,3 +1,5 @@
+"""Worked off of code found at http://www.onlamp.com/pub/a/python/2006/02/09/ai_decision_trees.html?page=4"""
+
 import math
 import sys
 def ent(data):
