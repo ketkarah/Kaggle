@@ -49,7 +49,7 @@ model.add(Dropout(0.5))
 model.add(Dense(25))
 model.add(Dense(19, activation='sigmoid'))
 
-###Hyperparameters
+###Loss function and LR specification
 
 opt = optimizers.SGD(lr=0.1,decay=1e-6)
 model.compile(loss='categorical_crossentropy',
