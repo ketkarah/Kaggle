@@ -1,3 +1,5 @@
+// Worked of code outline provided by Prof. Ramavarapu Sreenivas, University of Illinois-Urbana Champaign
+
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
@@ -9,6 +11,7 @@
 #define HEADS 1
 #define TAILS 0
 using namespace std;
+
 
 // cf http://www.cplusplus.com/reference/random/uniform_real_distribution/operator()/
 // If you want to set a seed -- do it only after debug phase is completed
