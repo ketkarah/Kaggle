@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  Direct AB Testing
-//
-//  Created by Ramavarapu Sreenivas on 3/6/17.
-//  Copyright © 2017 Ramavarapu Sreenivas. All rights reserved.
-//
+//Worked off code outline provided by Prof. Ramavarapu Sreenivas, University of Illinois-Urbana Champaign
 
 #include <boost/math/distributions.hpp>
 #include <iostream>
